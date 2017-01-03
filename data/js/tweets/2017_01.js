@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 02 18:41:11 +0000 2017",
+		"id": 815991344745189400,
+		"id_str": "815991344745189376",
+		"text": "RT @BrandyLJensen: Please unblock me @seanmdav I agree that we should let everybody build their own roads https://t.co/e16sZpiHTi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrandyLJensen",
+					"name": "Brandy Jensen",
+					"id": 3099901028,
+					"id_str": "3099901028",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "seanmdav",
+					"name": "Sean Davis",
+					"id": 36529101,
+					"id_str": "36529101",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 815987341475123200,
+					"id_str": "815987341475123200",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+					"url": "https://t.co/e16sZpiHTi",
+					"display_url": "pic.twitter.com/e16sZpiHTi",
+					"expanded_url": "https://twitter.com/BrandyLJensen/status/815987356796911616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 752,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 752,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815987356796911600,
+					"source_status_id_str": "815987356796911616",
+					"source_user_id": 3099901028,
+					"source_user_id_str": "3099901028"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 815987341475123200,
+					"id_str": "815987341475123200",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+					"url": "https://t.co/e16sZpiHTi",
+					"display_url": "pic.twitter.com/e16sZpiHTi",
+					"expanded_url": "https://twitter.com/BrandyLJensen/status/815987356796911616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 752,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 752,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815987356796911600,
+					"source_status_id_str": "815987356796911616",
+					"source_user_id": 3099901028,
+					"source_user_id_str": "3099901028"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17260,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 02 18:25:20 +0000 2017",
+			"id": 815987356796911600,
+			"id_str": "815987356796911616",
+			"text": "Please unblock me @seanmdav I agree that we should let everybody build their own roads https://t.co/e16sZpiHTi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "seanmdav",
+						"name": "Sean Davis",
+						"id": 36529101,
+						"id_str": "36529101",
+						"indices": [
+							18,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 815987341475123200,
+						"id_str": "815987341475123200",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+						"url": "https://t.co/e16sZpiHTi",
+						"display_url": "pic.twitter.com/e16sZpiHTi",
+						"expanded_url": "https://twitter.com/BrandyLJensen/status/815987356796911616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 752,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 815987341475123200,
+						"id_str": "815987341475123200",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1L4Ke3XEAAJmPg.jpg",
+						"url": "https://t.co/e16sZpiHTi",
+						"display_url": "pic.twitter.com/e16sZpiHTi",
+						"expanded_url": "https://twitter.com/BrandyLJensen/status/815987356796911616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 752,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3099901028,
+				"id_str": "3099901028",
+				"name": "Brandy Jensen",
+				"screen_name": "BrandyLJensen",
+				"location": "Brooklyn, NY",
+				"description": "behind every successful man is a woman pegging him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16667,
+				"friends_count": 1529,
+				"listed_count": 211,
+				"created_at": "Fri Mar 20 16:04:29 +0000 2015",
+				"favourites_count": 99981,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623484184128937984/o303qqRY.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623484184128937984/o303qqRY.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815625064737570816/hLcsO-UY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815625064737570816/hLcsO-UY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3099901028/1478831451",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 161,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 02 04:45:39 +0000 2017",
+		"id": 815781073632100400,
+		"id_str": "815781073632100352",
+		"text": "After Living in Norway, America Feels Backward. Here's Why. - https://t.co/gploJN1jnD https://t.co/vFUVUn4EWH via @Instapaper",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "instapaper",
+					"name": "Instapaper",
+					"id": 16240267,
+					"id_str": "16240267",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gploJN1jnD",
+					"expanded_url": "http://BillMoyers.com",
+					"display_url": "BillMoyers.com",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/vFUVUn4EWH",
+					"expanded_url": "http://billmoyers.com/story/after-living-in-norway-america-feels-backward/",
+					"display_url": "billmoyers.com/story/after-li…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17260,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 02 04:30:42 +0000 2017",
+		"id": 815777313937715200,
+		"id_str": "815777313937715200",
+		"text": "RT @alexrusselI: the truman show of today would be you're doing everything you can to document your own life but you slowly realize that no…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexrusselI",
+					"name": "alex russell",
+					"id": 289057978,
+					"id_str": "289057978",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17260,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 01 22:24:11 +0000 2017",
+			"id": 815685077392912400,
+			"id_str": "815685077392912387",
+			"text": "the truman show of today would be you're doing everything you can to document your own life but you slowly realize that no one is watching",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 289057978,
+				"id_str": "289057978",
+				"name": "alex russell",
+				"screen_name": "alexrusselI",
+				"location": "kasei",
+				"description": "loaded loaded, fully  alexrussellglo@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9280,
+				"friends_count": 228,
+				"listed_count": 50,
+				"created_at": "Wed Apr 27 23:18:27 +0000 2011",
+				"favourites_count": 10706,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2602,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481233021014519808/r9rmVqTa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481233021014519808/r9rmVqTa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763987867731316736/8JK48tNm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763987867731316736/8JK48tNm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/289057978/1474058964",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1942,
+			"favorite_count": 4503,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1942,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 01 23:36:13 +0000 2017",
 		"id": 815703205963149300,
 		"id_str": "815703205963149316",
