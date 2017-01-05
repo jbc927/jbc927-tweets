@@ -1,6 +1,2244 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 04 16:59:56 +0000 2017",
+		"id": 816690640167829500,
+		"id_str": "816690640167829504",
+		"text": "Me too @ Kreuzberg, Ca https://t.co/JnJYzXdAM6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JnJYzXdAM6",
+					"expanded_url": "https://www.instagram.com/p/BO2ZxKPDI38bc6jmxxCVN3Fx9nI6Akh2gUgS740/",
+					"display_url": "instagram.com/p/BO2ZxKPDI38b…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Wed Jan 04 16:55:06 +0000 2017",
+		"id": 816689422594928600,
+		"id_str": "816689422594928640",
+		"text": "RT @ChMadar: For profit healthcare is dystopian; #SinglePayer is fair, less expensive and above all practical. https://t.co/x9Y11qR86v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SinglePayer",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChMadar",
+					"name": "Chase Madar",
+					"id": 111631851,
+					"id_str": "111631851",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x9Y11qR86v",
+					"expanded_url": "https://twitter.com/jbspharmd/status/816660290670645248",
+					"display_url": "twitter.com/jbspharmd/stat…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 04 16:44:24 +0000 2017",
+			"id": 816686729885261800,
+			"id_str": "816686729885261824",
+			"text": "For profit healthcare is dystopian; #SinglePayer is fair, less expensive and above all practical. https://t.co/x9Y11qR86v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SinglePayer",
+						"indices": [
+							36,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x9Y11qR86v",
+						"expanded_url": "https://twitter.com/jbspharmd/status/816660290670645248",
+						"display_url": "twitter.com/jbspharmd/stat…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111631851,
+				"id_str": "111631851",
+				"name": "Chase Madar",
+				"screen_name": "ChMadar",
+				"location": "New York",
+				"description": "Journalist (bylines LRB, NYT, MondeDiplo), recovered lawyer, author of a book about Pvt Chelsea Manning, the Wikileaks source.",
+				"url": "https://t.co/nbPBS8Hq75",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nbPBS8Hq75",
+								"expanded_url": "http://www.versobooks.com/books/1401-the-passion-of-bradley-manning",
+								"display_url": "versobooks.com/books/1401-the…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8707,
+				"friends_count": 4819,
+				"listed_count": 356,
+				"created_at": "Fri Feb 05 16:21:10 +0000 2010",
+				"favourites_count": 21893,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37655,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/600643027070164993/RbIa-7JM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/600643027070164993/RbIa-7JM.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798914241088602112/timFcGVn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798914241088602112/timFcGVn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111631851/1479928548",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 816660290670645200,
+			"quoted_status_id_str": "816660290670645248",
+			"quoted_status": {
+				"created_at": "Wed Jan 04 14:59:20 +0000 2017",
+				"id": 816660290670645200,
+				"id_str": "816660290670645248",
+				"text": "A majority of Americans support Single Payer and 95% will pay less than they do now with no deductibles &amp; no copays… https://t.co/YRjw5Qf9Ff",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/YRjw5Qf9Ff",
+							"expanded_url": "https://twitter.com/i/web/status/816660290670645248",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 94492750,
+					"id_str": "94492750",
+					"name": "Jeremiah Smith",
+					"screen_name": "jbspharmd",
+					"location": "",
+					"description": "Human, Father, Husband, Healthcare Professional\n#UniteBlue, #SinglePayer, #GetMoneyOut, #ClimateAction, #FeelTheBern, #HumanRights #BlackLivesMatter #NoDAPL",
+					"url": "https://t.co/N6WPWvm4cq",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/N6WPWvm4cq",
+									"expanded_url": "https://www.change.org/p/electoral-college-make-hillary-clinton-president-on-december-19-4a78160a-023c-4ff0-9069-53cee2a095a8?recruiter=1776980&utm_source=share_petition&utm_medium=email&utm_campaign=share_email_responsive",
+									"display_url": "change.org/p/electoral-co…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 13372,
+					"friends_count": 12903,
+					"listed_count": 320,
+					"created_at": "Fri Dec 04 05:12:44 +0000 2009",
+					"favourites_count": 335,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 21896,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/699392038429704192/vMAZBzP0_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/699392038429704192/vMAZBzP0_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/94492750/1469047608",
+					"profile_link_color": "D02B55",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 239,
+				"favorite_count": 254,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 816660290670645200,
+		"quoted_status_id_str": "816660290670645248",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 04 16:46:22 +0000 2017",
+		"id": 816687224221761500,
+		"id_str": "816687224221761536",
+		"text": "RT @jakebackpack: 6. The Democrats are a \"strategic communications firm\" that bills city govs looking for \"smart solutions\" to \"the problem…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jakebackpack",
+					"name": "Jacob Maccabacharach",
+					"id": 38478122,
+					"id_str": "38478122",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 15:09:09 +0000 2016",
+			"id": 797818589994696700,
+			"id_str": "797818589994696704",
+			"text": "6. The Democrats are a \"strategic communications firm\" that bills city govs looking for \"smart solutions\" to \"the problems of tomorrow.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 797818168031019000,
+			"in_reply_to_status_id_str": "797818168031019013",
+			"in_reply_to_user_id": 38478122,
+			"in_reply_to_user_id_str": "38478122",
+			"in_reply_to_screen_name": "jakebackpack",
+			"user": {
+				"id": 38478122,
+				"id_str": "38478122",
+				"name": "Jacob Bacharach",
+				"screen_name": "jakebackpack",
+				"location": "Pittsburgh",
+				"description": "My next novel is The Doorposts of Your House & on Your Gates (https://t.co/YDJ0eISK6L) about Jews, God, & property crime.",
+				"url": "https://t.co/ccootaOCCF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ccootaOCCF",
+								"expanded_url": "http://jacobbacharach.com",
+								"display_url": "jacobbacharach.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YDJ0eISK6L",
+								"expanded_url": "http://books.wwnorton.com/books/detail.aspx?ID=4294992724",
+								"display_url": "books.wwnorton.com/books/detail.a…",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6345,
+				"friends_count": 708,
+				"listed_count": 127,
+				"created_at": "Thu May 07 17:47:47 +0000 2009",
+				"favourites_count": 5463,
+				"utc_offset": -14400,
+				"time_zone": "Georgetown",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673437297/e837b5fe83d96f9c1c5bc87255885867.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673437297/e837b5fe83d96f9c1c5bc87255885867.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690181628346417152/aD53k_Kc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690181628346417152/aD53k_Kc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38478122/1359914091",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 115,
+			"favorite_count": 468,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 04 16:46:20 +0000 2017",
+		"id": 816687215216627700,
+		"id_str": "816687215216627712",
+		"text": "RT @jakebackpack: 5. The Democrats, on the other hand, are something more like a nebulous consultancy for people too lazy to finish grad sc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jakebackpack",
+					"name": "Jacob Maccabacharach",
+					"id": 38478122,
+					"id_str": "38478122",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 15:07:28 +0000 2016",
+			"id": 797818168031019000,
+			"id_str": "797818168031019013",
+			"text": "5. The Democrats, on the other hand, are something more like a nebulous consultancy for people too lazy to finish grad school.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 797817833992425500,
+			"in_reply_to_status_id_str": "797817833992425472",
+			"in_reply_to_user_id": 38478122,
+			"in_reply_to_user_id_str": "38478122",
+			"in_reply_to_screen_name": "jakebackpack",
+			"user": {
+				"id": 38478122,
+				"id_str": "38478122",
+				"name": "Jacob Bacharach",
+				"screen_name": "jakebackpack",
+				"location": "Pittsburgh",
+				"description": "My next novel is The Doorposts of Your House & on Your Gates (https://t.co/YDJ0eISK6L) about Jews, God, & property crime.",
+				"url": "https://t.co/ccootaOCCF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ccootaOCCF",
+								"expanded_url": "http://jacobbacharach.com",
+								"display_url": "jacobbacharach.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YDJ0eISK6L",
+								"expanded_url": "http://books.wwnorton.com/books/detail.aspx?ID=4294992724",
+								"display_url": "books.wwnorton.com/books/detail.a…",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6345,
+				"friends_count": 708,
+				"listed_count": 127,
+				"created_at": "Thu May 07 17:47:47 +0000 2009",
+				"favourites_count": 5463,
+				"utc_offset": -14400,
+				"time_zone": "Georgetown",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673437297/e837b5fe83d96f9c1c5bc87255885867.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673437297/e837b5fe83d96f9c1c5bc87255885867.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690181628346417152/aD53k_Kc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690181628346417152/aD53k_Kc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38478122/1359914091",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 185,
+			"favorite_count": 803,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 04 16:45:59 +0000 2017",
+		"id": 816687127970906100,
+		"id_str": "816687127970906113",
+		"text": "🔔\n\nUnfortunately, this thread is correct: https://t.co/GIzVZrXEgi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GIzVZrXEgi",
+					"expanded_url": "https://twitter.com/jakebackpack/status/797817209187864576",
+					"display_url": "twitter.com/jakebackpack/s…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 797817209187864600,
+		"quoted_status_id_str": "797817209187864576",
+		"quoted_status": {
+			"created_at": "Sun Nov 13 15:03:40 +0000 2016",
+			"id": 797817209187864600,
+			"id_str": "797817209187864576",
+			"text": "1. Common trope in media criticism: the media is/was structurally incapable of noting that the GOP is no longer a \"normal\" political party.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38478122,
+				"id_str": "38478122",
+				"name": "Jacob Bacharach",
+				"screen_name": "jakebackpack",
+				"location": "Pittsburgh",
+				"description": "My next novel is The Doorposts of Your House & on Your Gates (https://t.co/YDJ0eISK6L) about Jews, God, & property crime.",
+				"url": "https://t.co/ccootaOCCF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ccootaOCCF",
+								"expanded_url": "http://jacobbacharach.com",
+								"display_url": "jacobbacharach.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YDJ0eISK6L",
+								"expanded_url": "http://books.wwnorton.com/books/detail.aspx?ID=4294992724",
+								"display_url": "books.wwnorton.com/books/detail.a…",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6345,
+				"friends_count": 708,
+				"listed_count": 127,
+				"created_at": "Thu May 07 17:47:47 +0000 2009",
+				"favourites_count": 5463,
+				"utc_offset": -14400,
+				"time_zone": "Georgetown",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673437297/e837b5fe83d96f9c1c5bc87255885867.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673437297/e837b5fe83d96f9c1c5bc87255885867.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690181628346417152/aD53k_Kc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690181628346417152/aD53k_Kc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38478122/1359914091",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 188,
+			"favorite_count": 616,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 04 16:42:10 +0000 2017",
+		"id": 816686167613702100,
+		"id_str": "816686167613702145",
+		"text": "https://t.co/9YDH5T7F2W https://t.co/TJCmGtm38s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YDH5T7F2W",
+					"expanded_url": "http://www.nytimes.com/2017/01/03/magazine/how-elites-became-one-of-the-nastiest-epithets-in-american-politics.html",
+					"display_url": "nytimes.com/2017/01/03/mag…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 816686155638808600,
+					"id_str": "816686155638808576",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/C1Vzu0fUoAA8P80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1Vzu0fUoAA8P80.jpg",
+					"url": "https://t.co/TJCmGtm38s",
+					"display_url": "pic.twitter.com/TJCmGtm38s",
+					"expanded_url": "https://twitter.com/JustinBCooley/status/816686167613702145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1774,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 816686155638808600,
+					"id_str": "816686155638808576",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/C1Vzu0fUoAA8P80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1Vzu0fUoAA8P80.jpg",
+					"url": "https://t.co/TJCmGtm38s",
+					"display_url": "pic.twitter.com/TJCmGtm38s",
+					"expanded_url": "https://twitter.com/JustinBCooley/status/816686167613702145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1774,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jan 04 04:47:54 +0000 2017",
+		"id": 816506417041412100,
+		"id_str": "816506417041412096",
+		"text": "RT @CDA: Sticker on the front-facing camera of the iPad. \nPope Francis' opsec: 👍 https://t.co/pgBab65lJP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CDA",
+					"name": "Collin Anderson",
+					"id": 18785864,
+					"id_str": "18785864",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 816504179007090700,
+					"id_str": "816504179007090689",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+					"url": "https://t.co/pgBab65lJP",
+					"display_url": "pic.twitter.com/pgBab65lJP",
+					"expanded_url": "https://twitter.com/CDA/status/816504372024799233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 816504372024799200,
+					"source_status_id_str": "816504372024799233",
+					"source_user_id": 18785864,
+					"source_user_id_str": "18785864"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 816504179007090700,
+					"id_str": "816504179007090689",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+					"url": "https://t.co/pgBab65lJP",
+					"display_url": "pic.twitter.com/pgBab65lJP",
+					"expanded_url": "https://twitter.com/CDA/status/816504372024799233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 816504372024799200,
+					"source_status_id_str": "816504372024799233",
+					"source_user_id": 18785864,
+					"source_user_id_str": "18785864"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 04 04:39:46 +0000 2017",
+			"id": 816504372024799200,
+			"id_str": "816504372024799233",
+			"text": "Sticker on the front-facing camera of the iPad. \nPope Francis' opsec: 👍 https://t.co/pgBab65lJP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 816504179007090700,
+						"id_str": "816504179007090689",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+						"url": "https://t.co/pgBab65lJP",
+						"display_url": "pic.twitter.com/pgBab65lJP",
+						"expanded_url": "https://twitter.com/CDA/status/816504372024799233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 816504179007090700,
+						"id_str": "816504179007090689",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1TOOYtW8AEn8vN.jpg",
+						"url": "https://t.co/pgBab65lJP",
+						"display_url": "pic.twitter.com/pgBab65lJP",
+						"expanded_url": "https://twitter.com/CDA/status/816504372024799233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18785864,
+				"id_str": "18785864",
+				"name": "Collin Anderson",
+				"screen_name": "CDA",
+				"location": "Washington, DC",
+				"description": "Researcher on Internet policies, foreign affairs, network measurement, and state-sponsored hacking; 'Blonde guy, talks about Iran a lot;'ملا لغتی;",
+				"url": "https://t.co/USsq701F6T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/USsq701F6T",
+								"expanded_url": "http://cda.io",
+								"display_url": "cda.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4157,
+				"friends_count": 741,
+				"listed_count": 219,
+				"created_at": "Fri Jan 09 00:26:44 +0000 2009",
+				"favourites_count": 3584,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B4547",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560235628294467584/5FB9T1fl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560235628294467584/5FB9T1fl.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796435917720276992/326ZlbQg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796435917720276992/326ZlbQg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18785864/1401475713",
+				"profile_link_color": "0B010B",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2235,
+			"favorite_count": 3090,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2235,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 04 01:53:23 +0000 2017",
+		"id": 816462498329043000,
+		"id_str": "816462498329042944",
+		"text": "RT @JucheMane: https://t.co/UOmFJzeInS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JucheMane",
+					"name": "nick simulator 2017",
+					"id": 217269914,
+					"id_str": "217269914",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 816448738184937500,
+					"id_str": "816448738184937472",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+					"url": "https://t.co/UOmFJzeInS",
+					"display_url": "pic.twitter.com/UOmFJzeInS",
+					"expanded_url": "https://twitter.com/JucheMane/status/816448747047682048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 749,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 749,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 816448747047682000,
+					"source_status_id_str": "816448747047682048",
+					"source_user_id": 217269914,
+					"source_user_id_str": "217269914"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 816448738184937500,
+					"id_str": "816448738184937472",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+					"url": "https://t.co/UOmFJzeInS",
+					"display_url": "pic.twitter.com/UOmFJzeInS",
+					"expanded_url": "https://twitter.com/JucheMane/status/816448747047682048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 749,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 749,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 816448747047682000,
+					"source_status_id_str": "816448747047682048",
+					"source_user_id": 217269914,
+					"source_user_id_str": "217269914"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 04 00:58:44 +0000 2017",
+			"id": 816448747047682000,
+			"id_str": "816448747047682048",
+			"text": "https://t.co/UOmFJzeInS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 816448738184937500,
+						"id_str": "816448738184937472",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+						"url": "https://t.co/UOmFJzeInS",
+						"display_url": "pic.twitter.com/UOmFJzeInS",
+						"expanded_url": "https://twitter.com/JucheMane/status/816448747047682048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 749,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 749,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 816448738184937500,
+						"id_str": "816448738184937472",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1SbzTjUQAAkV9h.jpg",
+						"url": "https://t.co/UOmFJzeInS",
+						"display_url": "pic.twitter.com/UOmFJzeInS",
+						"expanded_url": "https://twitter.com/JucheMane/status/816448747047682048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 749,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 749,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 217269914,
+				"id_str": "217269914",
+				"name": "nick simulator 2017",
+				"screen_name": "JucheMane",
+				"location": "Chicago",
+				"description": "anticulture. a higher plane of stupid.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4620,
+				"friends_count": 585,
+				"listed_count": 105,
+				"created_at": "Fri Nov 19 01:40:02 +0000 2010",
+				"favourites_count": 54172,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 89552,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493914468905005056/mhmf2oFp.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493914468905005056/mhmf2oFp.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629001187581403136/27YEWPWG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629001187581403136/27YEWPWG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/217269914/1437754862",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCF9F9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 79,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jan 04 01:52:59 +0000 2017",
+		"id": 816462399934861300,
+		"id_str": "816462399934861312",
+		"text": "RT @RS_Benedict: someone arrest that fuckin toddler https://t.co/odkOKPcGkC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RS_Benedict",
+					"name": "love my eggs",
+					"id": 625960996,
+					"id_str": "625960996",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/odkOKPcGkC",
+					"expanded_url": "https://twitter.com/SUPGVNetwork/status/816283238285135872",
+					"display_url": "twitter.com/SUPGVNetwork/s…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 649,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 03 19:06:33 +0000 2017",
+			"id": 816360116001865700,
+			"id_str": "816360116001865731",
+			"text": "someone arrest that fuckin toddler https://t.co/odkOKPcGkC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/odkOKPcGkC",
+						"expanded_url": "https://twitter.com/SUPGVNetwork/status/816283238285135872",
+						"display_url": "twitter.com/SUPGVNetwork/s…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 625960996,
+				"id_str": "625960996",
+				"name": "love my eggs",
+				"screen_name": "RS_Benedict",
+				"location": "",
+				"description": "Recovering expat. Miscreant. Professional shitposter at Unicorn Booty.",
+				"url": "http://t.co/r2i0OsWy4H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/r2i0OsWy4H",
+								"expanded_url": "http://rsbenedict.tumblr.com/",
+								"display_url": "rsbenedict.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1462,
+				"friends_count": 793,
+				"listed_count": 80,
+				"created_at": "Tue Jul 03 22:48:25 +0000 2012",
+				"favourites_count": 122386,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45746,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/701809674266411008/cYA_YQW7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/701809674266411008/cYA_YQW7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/625960996/1428133728",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 816283238285135900,
+			"quoted_status_id_str": "816283238285135872",
+			"quoted_status": {
+				"created_at": "Tue Jan 03 14:01:04 +0000 2017",
+				"id": 816283238285135900,
+				"id_str": "816283238285135872",
+				"text": "A toddler has now shot a person every week in America for two years straight.\n\nYes, you read that correctly.… https://t.co/nPHn0D99hE",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/nPHn0D99hE",
+							"expanded_url": "https://twitter.com/i/web/status/816283238285135872",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 38029388,
+					"id_str": "38029388",
+					"name": "States United",
+					"screen_name": "SUPGVNetwork",
+					"location": "Across the USA",
+					"description": "States United to Prevent Gun Violence (SUPGV) is a grassroots network of 31 state affiliates working to make our communities and families safer. #GrassrootsGVP",
+					"url": "https://t.co/v9nSmLCaaa",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/v9nSmLCaaa",
+									"expanded_url": "http://supgv.org",
+									"display_url": "supgv.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7821,
+					"friends_count": 1941,
+					"listed_count": 321,
+					"created_at": "Tue May 05 21:47:16 +0000 2009",
+					"favourites_count": 7361,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 18492,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/79855264/SGD_2_candle_light_images_160H.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/79855264/SGD_2_candle_light_images_160H.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/809248922795327488/WzQJCbsT_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/809248922795327488/WzQJCbsT_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/38029388/1481774921",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11640,
+				"favorite_count": 7658,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2681,
+			"favorite_count": 5352,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 816283238285135900,
+		"quoted_status_id_str": "816283238285135872",
+		"retweet_count": 2681,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 04 00:06:01 +0000 2017",
 		"id": 816435477586722800,
 		"id_str": "816435477586722816",
