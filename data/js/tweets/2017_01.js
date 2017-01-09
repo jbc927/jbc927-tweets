@@ -1,6 +1,900 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 08 17:32:39 +0000 2017",
+		"id": 818148423069089800,
+		"id_str": "818148423069089792",
+		"text": "RT @KayBurley: I was reminded today about Joe Biden's approach to work/life balance in this letter to staff https://t.co/F2vWXrVOGw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KayBurley",
+					"name": "Kay Burley",
+					"id": 1299769218,
+					"id_str": "1299769218",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 818068173169762300,
+					"id_str": "818068173169762304",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+					"url": "https://t.co/F2vWXrVOGw",
+					"display_url": "pic.twitter.com/F2vWXrVOGw",
+					"expanded_url": "https://twitter.com/KayBurley/status/818068183345152000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 615,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 615,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818068183345152000,
+					"source_status_id_str": "818068183345152000",
+					"source_user_id": 1299769218,
+					"source_user_id_str": "1299769218"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 818068173169762300,
+					"id_str": "818068173169762304",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+					"url": "https://t.co/F2vWXrVOGw",
+					"display_url": "pic.twitter.com/F2vWXrVOGw",
+					"expanded_url": "https://twitter.com/KayBurley/status/818068183345152000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 615,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 615,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 818068183345152000,
+					"source_status_id_str": "818068183345152000",
+					"source_user_id": 1299769218,
+					"source_user_id_str": "1299769218"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 654,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17414,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 08 12:13:48 +0000 2017",
+			"id": 818068183345152000,
+			"id_str": "818068183345152000",
+			"text": "I was reminded today about Joe Biden's approach to work/life balance in this letter to staff https://t.co/F2vWXrVOGw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 818068173169762300,
+						"id_str": "818068173169762304",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+						"url": "https://t.co/F2vWXrVOGw",
+						"display_url": "pic.twitter.com/F2vWXrVOGw",
+						"expanded_url": "https://twitter.com/KayBurley/status/818068183345152000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 550,
+								"h": 615,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 615,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 818068173169762300,
+						"id_str": "818068173169762304",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1pcq0_WIAAaI7r.jpg",
+						"url": "https://t.co/F2vWXrVOGw",
+						"display_url": "pic.twitter.com/F2vWXrVOGw",
+						"expanded_url": "https://twitter.com/KayBurley/status/818068183345152000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 550,
+								"h": 615,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 615,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1299769218,
+				"id_str": "1299769218",
+				"name": "Kay Burley",
+				"screen_name": "KayBurley",
+				"location": "London",
+				"description": "Sky News founder member. Journalist. Animal lover. Proud mum. More than a million minutes of presenting live TV.  All that matters is to be useful and kind.",
+				"url": "https://t.co/TekBHFeOS5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TekBHFeOS5",
+								"expanded_url": "http://skynews.com",
+								"display_url": "skynews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 351823,
+				"friends_count": 373,
+				"listed_count": 1028,
+				"created_at": "Mon Mar 25 14:48:58 +0000 2013",
+				"favourites_count": 19686,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49665,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815405710934732804/8EqbPSl8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815405710934732804/8EqbPSl8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1299769218/1483738584",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1727,
+			"favorite_count": 3263,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1727,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 08 17:26:13 +0000 2017",
+		"id": 818146804092936200,
+		"id_str": "818146804092936194",
+		"text": "RT @leyawn: listen up poors. im not moving to your farm town until you get three apple stores and sign a pledge to not be racist https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leyawn",
+					"name": "leon",
+					"id": 49708023,
+					"id_str": "49708023",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 654,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17414,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 08 01:50:25 +0000 2017",
+			"id": 817911302966415400,
+			"id_str": "817911302966415360",
+			"text": "listen up poors. im not moving to your farm town until you get three apple stores and sign a pledge to not be racist https://t.co/UajuFOxATL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UajuFOxATL",
+						"expanded_url": "https://twitter.com/MJB_SF/status/817864861862526976",
+						"display_url": "twitter.com/MJB_SF/status/…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49708023,
+				"id_str": "49708023",
+				"name": "leon",
+				"screen_name": "leyawn",
+				"location": "brooklyn",
+				"description": "music: https://t.co/UmEkpXsxu8 art: https://t.co/I59EJL4HEZ patreon: https://t.co/ucenYQwdaN",
+				"url": "https://t.co/UmEkpXsxu8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UmEkpXsxu8",
+								"expanded_url": "http://soundcloud.com/leyawn",
+								"display_url": "soundcloud.com/leyawn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UmEkpXsxu8",
+								"expanded_url": "http://soundcloud.com/leyawn",
+								"display_url": "soundcloud.com/leyawn",
+								"indices": [
+									7,
+									30
+								]
+							},
+							{
+								"url": "https://t.co/I59EJL4HEZ",
+								"expanded_url": "http://leyawn.tumblr.com/tagged/pixel",
+								"display_url": "leyawn.tumblr.com/tagged/pixel",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/ucenYQwdaN",
+								"expanded_url": "http://patreon.com/leyawn",
+								"display_url": "patreon.com/leyawn",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68369,
+				"friends_count": 908,
+				"listed_count": 1007,
+				"created_at": "Mon Jun 22 18:00:57 +0000 2009",
+				"favourites_count": 45,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623591419396145152/YASuadT0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623591419396145152/YASuadT0.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3205550236/70e0971b8c52faf3a44fd9a6194c54f5_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3205550236/70e0971b8c52faf3a44fd9a6194c54f5_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49708023/1450450830",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 817864861862527000,
+			"quoted_status_id_str": "817864861862526976",
+			"quoted_status": {
+				"created_at": "Sat Jan 07 22:45:52 +0000 2017",
+				"id": 817864861862527000,
+				"id_str": "817864861862526976",
+				"text": "I didn't feel like tweetstorming, so here's a screen shot.  \"What middle America can do to get more jobs in their a… https://t.co/BOJmqItyiw",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/BOJmqItyiw",
+							"expanded_url": "https://twitter.com/i/web/status/817864861862526976",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15909478,
+					"id_str": "15909478",
+					"name": "Melinda Byerley ☠️",
+					"screen_name": "MJB_SF",
+					"location": "San Francisco, CA",
+					"description": "Founder @timesharecmo. Outspoken. ✍🏻, Tech/Growth Marketing, #ImWithHer #AuditTheVote champ. Cornell MBA. @venturebeat @growthtactics Contributor. 🐩Owner",
+					"url": "https://t.co/8OXzCqBbZ6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8OXzCqBbZ6",
+									"expanded_url": "http://linkedin.com/in/melindab",
+									"display_url": "linkedin.com/in/melindab",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7524,
+					"friends_count": 3205,
+					"listed_count": 581,
+					"created_at": "Tue Aug 19 20:57:22 +0000 2008",
+					"favourites_count": 48268,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 52994,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/507327885460246529/jcIFzXJA_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/507327885460246529/jcIFzXJA_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15909478/1431361178",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1093,
+				"favorite_count": 2106,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1193,
+			"favorite_count": 3604,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 817864861862527000,
+		"quoted_status_id_str": "817864861862526976",
+		"retweet_count": 1193,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 08 00:16:17 +0000 2017",
+		"id": 817887613403078700,
+		"id_str": "817887613403078656",
+		"text": "RT @SeanMcElwee: Maternal deaths increased so rapidly in Texas experts say it's difficult to explain in absence of a war or disaster. https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeanMcElwee",
+					"name": "sean.",
+					"id": 318692762,
+					"id_str": "318692762",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 654,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17414,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 07 23:38:29 +0000 2017",
+			"id": 817878099916361700,
+			"id_str": "817878099916361728",
+			"text": "Maternal deaths increased so rapidly in Texas experts say it's difficult to explain in absence of a war or disaster… https://t.co/5GUML2WqSu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5GUML2WqSu",
+						"expanded_url": "https://twitter.com/i/web/status/817878099916361728",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 318692762,
+				"id_str": "318692762",
+				"name": "sean.",
+				"screen_name": "SeanMcElwee",
+				"location": "the means of production",
+				"description": "Policy Analyst @DemosAction. Essayist. The wonks have interpreted the world, the point is to change it. seanadrianmc [at] gmail",
+				"url": "https://t.co/Kln44He6AO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kln44He6AO",
+								"expanded_url": "http://www.seanamcelwee.com",
+								"display_url": "seanamcelwee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33765,
+				"friends_count": 2099,
+				"listed_count": 950,
+				"created_at": "Thu Jun 16 22:07:49 +0000 2011",
+				"favourites_count": 31944,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36418,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697656193737748480/Hc-WgXJw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697656193737748480/Hc-WgXJw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/318692762/1479340302",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1874,
+			"favorite_count": 1438,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1874,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 08 00:03:52 +0000 2017",
 		"id": 817884491087654900,
 		"id_str": "817884491087654912",
@@ -4364,7 +5258,7 @@ Grailbird.data.tweets_2017_01 =
 			"user_mentions": [
 				{
 					"screen_name": "Parker9_",
-					"name": "Parker 🏳️‍🌈",
+					"name": "Parker 🏳️🌈",
 					"id": 4218742998,
 					"id_str": "4218742998",
 					"indices": [
@@ -4477,7 +5371,7 @@ Grailbird.data.tweets_2017_01 =
 			"user": {
 				"id": 4218742998,
 				"id_str": "4218742998",
-				"name": "Parker 🏳️‍🌈",
+				"name": "Parker 🏳️🌈",
 				"screen_name": "Parker9_",
 				"location": "",
 				"description": "We'll get through the next 4 years together",
