@@ -1,6 +1,2194 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 18 20:42:42 +0000 2017",
+		"id": 821820129465933800,
+		"id_str": "821820129465933825",
+		"text": "RT @charles_kinbote: Ms Devos, do you think disabled children should be ground into a thin gruel and fed to rich ppl?\n\nI think that should…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charles_kinbote",
+					"name": "nuanced opinion guy",
+					"id": 2792163465,
+					"id_str": "2792163465",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 14:38:09 +0000 2017",
+			"id": 821728390592024600,
+			"id_str": "821728390592024578",
+			"text": "Ms Devos, do you think disabled children should be ground into a thin gruel and fed to rich ppl?\n\nI think that should be left to the states",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2792163465,
+				"id_str": "2792163465",
+				"name": "nuanced opinion guy",
+				"screen_name": "charles_kinbote",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8053,
+				"friends_count": 739,
+				"listed_count": 108,
+				"created_at": "Mon Sep 29 17:03:37 +0000 2014",
+				"favourites_count": 128651,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58598,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/516635313427341312/Horm1mnR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/516635313427341312/Horm1mnR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2792163465/1482545263",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 327,
+			"favorite_count": 792,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 327,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 20:12:28 +0000 2017",
+		"id": 821812522680393700,
+		"id_str": "821812522680393729",
+		"text": "RT @AthertonKD: \"The reason we are the only country among developed democracies that makes it harder to vote traces directly back to Jim Cr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AthertonKD",
+					"name": "Kelsey D. Atherton",
+					"id": 14794913,
+					"id_str": "14794913",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 20:11:44 +0000 2017",
+			"id": 821812338651263000,
+			"id_str": "821812338651262976",
+			"text": "\"The reason we are the only country among developed democracies that makes it harder to vote traces directly back to Jim Crow\" - Obama",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14794913,
+				"id_str": "14794913",
+				"name": "Kelsey D. Atherton",
+				"screen_name": "AthertonKD",
+				"location": "Past: NM/NOLA/DC/MA. Now: ABQ",
+				"description": "War, robots, and other bad futures for @PopSci. Not actually a drone. Opinions my own. Unitarian Universalist. He/him. Fam: @alymaybe & @stellahthedog",
+				"url": "https://t.co/1mV6KLKCWS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1mV6KLKCWS",
+								"expanded_url": "http://www.popsci.com/category/popsci-authors/kelsey-d-atherton",
+								"display_url": "popsci.com/category/popsc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14508,
+				"friends_count": 3596,
+				"listed_count": 760,
+				"created_at": "Fri May 16 04:20:22 +0000 2008",
+				"favourites_count": 151403,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 184184,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168775576/6_WUBKo8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168775576/6_WUBKo8.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793443507272753152/fFX_b71A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793443507272753152/fFX_b71A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14794913/1472314622",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 20:09:48 +0000 2017",
+		"id": 821811851897884700,
+		"id_str": "821811851897884673",
+		"text": "RT @nickconfessore: Drip, drip... https://t.co/VY4pwQACJQ https://t.co/Yx1LqyyNV1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickconfessore",
+					"name": "Nick Confessore",
+					"id": 258885469,
+					"id_str": "258885469",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VY4pwQACJQ",
+					"expanded_url": "http://m.huffpost.com/us/entry/us_587f9ec5e4b0cf0ae8813191",
+					"display_url": "m.huffpost.com/us/entry/us_58…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 821787677464920000,
+					"id_str": "821787677464920068",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+					"url": "https://t.co/Yx1LqyyNV1",
+					"display_url": "pic.twitter.com/Yx1LqyyNV1",
+					"expanded_url": "https://twitter.com/nickconfessore/status/821787682460336137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1118,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821787682460336100,
+					"source_status_id_str": "821787682460336137",
+					"source_user_id": 258885469,
+					"source_user_id_str": "258885469"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821787677464920000,
+					"id_str": "821787677464920068",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+					"url": "https://t.co/Yx1LqyyNV1",
+					"display_url": "pic.twitter.com/Yx1LqyyNV1",
+					"expanded_url": "https://twitter.com/nickconfessore/status/821787682460336137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1118,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821787682460336100,
+					"source_status_id_str": "821787682460336137",
+					"source_user_id": 258885469,
+					"source_user_id_str": "258885469"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 18:33:46 +0000 2017",
+			"id": 821787682460336100,
+			"id_str": "821787682460336137",
+			"text": "Drip, drip... https://t.co/VY4pwQACJQ https://t.co/Yx1LqyyNV1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VY4pwQACJQ",
+						"expanded_url": "http://m.huffpost.com/us/entry/us_587f9ec5e4b0cf0ae8813191",
+						"display_url": "m.huffpost.com/us/entry/us_58…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 821787677464920000,
+						"id_str": "821787677464920068",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+						"url": "https://t.co/Yx1LqyyNV1",
+						"display_url": "pic.twitter.com/Yx1LqyyNV1",
+						"expanded_url": "https://twitter.com/nickconfessore/status/821787682460336137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 1118,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821787677464920000,
+						"id_str": "821787677464920068",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2eTieQXAAQtp12.jpg",
+						"url": "https://t.co/Yx1LqyyNV1",
+						"display_url": "pic.twitter.com/Yx1LqyyNV1",
+						"expanded_url": "https://twitter.com/nickconfessore/status/821787682460336137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 1118,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 258885469,
+				"id_str": "258885469",
+				"name": "Nick Confessore",
+				"screen_name": "nickconfessore",
+				"location": "",
+				"description": "Political reporter for The New York Times. MSNBC contributor. Retweets are a parable of the ineffable transcendence of being.",
+				"url": "https://t.co/ay0J3pz8WH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ay0J3pz8WH",
+								"expanded_url": "http://nyti.ms/Confessore",
+								"display_url": "nyti.ms/Confessore",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103890,
+				"friends_count": 1162,
+				"listed_count": 2888,
+				"created_at": "Mon Feb 28 18:27:35 +0000 2011",
+				"favourites_count": 929,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41011,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/211967461/twitter_bkgrnd.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/211967461/twitter_bkgrnd.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737705696406306816/n3PdZDCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737705696406306816/n3PdZDCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/258885469/1454649676",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 635,
+			"favorite_count": 842,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 635,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 15:37:29 +0000 2017",
+		"id": 821743318778265600,
+		"id_str": "821743318778265600",
+		"text": "RT @MattBors: Zero, which is about one million less than died because of your Iraq War reporting. https://t.co/6LScxdvPJG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattBors",
+					"name": "Matt Bors",
+					"id": 15161984,
+					"id_str": "15161984",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6LScxdvPJG",
+					"expanded_url": "https://twitter.com/JMfreespeech/status/821478106145976321",
+					"display_url": "twitter.com/JMfreespeech/s…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 22:18:43 +0000 2017",
+			"id": 821481904524230700,
+			"id_str": "821481904524230656",
+			"text": "Zero, which is about one million less than died because of your Iraq War reporting. https://t.co/6LScxdvPJG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6LScxdvPJG",
+						"expanded_url": "https://twitter.com/JMfreespeech/status/821478106145976321",
+						"display_url": "twitter.com/JMfreespeech/s…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15161984,
+				"id_str": "15161984",
+				"name": "Matt Bors",
+				"screen_name": "MattBors",
+				"location": "Portland, OR",
+				"description": "Cartoonist and editor of @TheNib.",
+				"url": "https://t.co/QdGMQ4liyQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QdGMQ4liyQ",
+								"expanded_url": "http://thenib.com",
+								"display_url": "thenib.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24730,
+				"friends_count": 1090,
+				"listed_count": 969,
+				"created_at": "Wed Jun 18 20:08:43 +0000 2008",
+				"favourites_count": 10792,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 206,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677713502853799936/siRWE4kY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677713502853799936/siRWE4kY_normal.jpg",
+				"profile_link_color": "5AB5CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 821478106145976300,
+			"quoted_status_id_str": "821478106145976321",
+			"quoted_status": {
+				"created_at": "Tue Jan 17 22:03:37 +0000 2017",
+				"id": 821478106145976300,
+				"id_str": "821478106145976321",
+				"text": "Obama commutes sentence of Chelsea Manning.  How many people died because of manning' leak? https://t.co/WrijBtp4fo",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/WrijBtp4fo",
+							"expanded_url": "https://www.google.com/amp/amp.usatoday.com/story/96678814/?client=safari",
+							"display_url": "google.com/amp/amp.usatod…",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 31101965,
+					"id_str": "31101965",
+					"name": "Judith Miller",
+					"screen_name": "JMfreespeech",
+					"location": "New York",
+					"description": "Journalist, author, First Amendment activist, political independent. My dog Hamlet really does eat my homework. RTs are not endorsements, except when they are.",
+					"url": "https://t.co/0wJH5F0zvK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0wJH5F0zvK",
+									"expanded_url": "http://www.judithmiller.com",
+									"display_url": "judithmiller.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 10649,
+					"friends_count": 838,
+					"listed_count": 388,
+					"created_at": "Tue Apr 14 11:31:51 +0000 2009",
+					"favourites_count": 226,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 6784,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/591247582304702464/JvvCkyKr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/591247582304702464/JvvCkyKr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/31101965/1430761850",
+					"profile_link_color": "DD2E44",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 217,
+				"favorite_count": 220,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1443,
+			"favorite_count": 3419,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 821478106145976300,
+		"quoted_status_id_str": "821478106145976321",
+		"retweet_count": 1443,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 14:20:13 +0000 2017",
+		"id": 821723875578785800,
+		"id_str": "821723875578785797",
+		"text": "RT @asmith83: Oh man. https://t.co/5Mou6B5Ndw https://t.co/YZXFZlBMsA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asmith83",
+					"name": "Adam Smith",
+					"id": 7591572,
+					"id_str": "7591572",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5Mou6B5Ndw",
+					"expanded_url": "https://www.nytimes.com/2017/01/17/us/politics/betsy-devos-education-senate-hearing.html?_r=0",
+					"display_url": "nytimes.com/2017/01/17/us/…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 821548725893926900,
+					"id_str": "821548725893926912",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+					"url": "https://t.co/YZXFZlBMsA",
+					"display_url": "pic.twitter.com/YZXFZlBMsA",
+					"expanded_url": "https://twitter.com/asmith83/status/821548776657747970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 229,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 229,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 229,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821548776657748000,
+					"source_status_id_str": "821548776657747970",
+					"source_user_id": 7591572,
+					"source_user_id_str": "7591572"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821548725893926900,
+					"id_str": "821548725893926912",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+					"url": "https://t.co/YZXFZlBMsA",
+					"display_url": "pic.twitter.com/YZXFZlBMsA",
+					"expanded_url": "https://twitter.com/asmith83/status/821548776657747970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 229,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 229,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 229,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821548776657748000,
+					"source_status_id_str": "821548776657747970",
+					"source_user_id": 7591572,
+					"source_user_id_str": "7591572"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 02:44:26 +0000 2017",
+			"id": 821548776657748000,
+			"id_str": "821548776657747970",
+			"text": "Oh man. https://t.co/5Mou6B5Ndw https://t.co/YZXFZlBMsA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5Mou6B5Ndw",
+						"expanded_url": "https://www.nytimes.com/2017/01/17/us/politics/betsy-devos-education-senate-hearing.html?_r=0",
+						"display_url": "nytimes.com/2017/01/17/us/…",
+						"indices": [
+							8,
+							31
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 821548725893926900,
+						"id_str": "821548725893926912",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+						"url": "https://t.co/YZXFZlBMsA",
+						"display_url": "pic.twitter.com/YZXFZlBMsA",
+						"expanded_url": "https://twitter.com/asmith83/status/821548776657747970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 585,
+								"h": 229,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 585,
+								"h": 229,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 585,
+								"h": 229,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821548725893926900,
+						"id_str": "821548725893926912",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2a6NqSVEAAUQ2G.jpg",
+						"url": "https://t.co/YZXFZlBMsA",
+						"display_url": "pic.twitter.com/YZXFZlBMsA",
+						"expanded_url": "https://twitter.com/asmith83/status/821548776657747970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 585,
+								"h": 229,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 585,
+								"h": 229,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 585,
+								"h": 229,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7591572,
+				"id_str": "7591572",
+				"name": "Adam Smith",
+				"screen_name": "asmith83",
+				"location": "ÜT: 38.90544,-77.041408",
+				"description": "Politics. Campaign Reform. Pop Culture. Comm. Director at @everyvoice. Texts from Hillary co-creator. Gchat: adamsmith4",
+				"url": "https://t.co/Lb50eBS8Vi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lb50eBS8Vi",
+								"expanded_url": "http://www.everyvoice.org/dailyclips",
+								"display_url": "everyvoice.org/dailyclips",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15874,
+				"friends_count": 2728,
+				"listed_count": 645,
+				"created_at": "Thu Jul 19 18:08:40 +0000 2007",
+				"favourites_count": 28885,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801088201364557825/uK08a5Yh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801088201364557825/uK08a5Yh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7591572/1480946881",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 360,
+			"favorite_count": 263,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 14:11:23 +0000 2017",
+		"id": 821721652543139800,
+		"id_str": "821721652543139840",
+		"text": "RT @BrendanNyhan: Not reassuring to see an incoming leader w/authoritarian tendencies talking about military parades in major cities https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrendanNyhan",
+					"name": "Brendan Nyhan",
+					"id": 84653850,
+					"id_str": "84653850",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 12:56:55 +0000 2017",
+			"id": 821702912183242800,
+			"id_str": "821702912183242752",
+			"text": "Not reassuring to see an incoming leader w/authoritarian tendencies talking about military parades in major cities… https://t.co/2YDTrvnAsN",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2YDTrvnAsN",
+						"expanded_url": "https://twitter.com/i/web/status/821702912183242752",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84653850,
+				"id_str": "84653850",
+				"name": "Brendan Nyhan",
+				"screen_name": "BrendanNyhan",
+				"location": "Hanover, NH",
+				"description": "@Dartmouth political science professor & @UpshotNYT contributor. Before: CJR media critic, Spinsanity/All the President's Spin co-author. http://t.co/BwoeFccCrA",
+				"url": "http://t.co/SLPQ03KEIP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SLPQ03KEIP",
+								"expanded_url": "http://www.dartmouth.edu/~nyhan/",
+								"display_url": "dartmouth.edu/~nyhan/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/BwoeFccCrA",
+								"expanded_url": "http://www.brendan-nyhan.com",
+								"display_url": "brendan-nyhan.com",
+								"indices": [
+									138,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41864,
+				"friends_count": 4163,
+				"listed_count": 1586,
+				"created_at": "Fri Oct 23 18:18:59 +0000 2009",
+				"favourites_count": 8514,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 39470,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683489860728950784/BHPN623B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683489860728950784/BHPN623B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84653850/1398214944",
+				"profile_link_color": "60BD9B",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2125,
+			"favorite_count": 1806,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2125,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 05:30:50 +0000 2017",
+		"id": 821590650172936200,
+		"id_str": "821590650172936194",
+		"text": "RT @LaJethroJenkins: This shit is gross. https://t.co/Pdr0H9Bons",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaJethroJenkins",
+					"name": "OMG, LaJethro",
+					"id": 18981766,
+					"id_str": "18981766",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pdr0H9Bons",
+					"expanded_url": "https://twitter.com/senschumer/status/821550942382268416",
+					"display_url": "twitter.com/senschumer/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 18 04:54:57 +0000 2017",
+			"id": 821581620536868900,
+			"id_str": "821581620536868865",
+			"text": "This shit is gross. https://t.co/Pdr0H9Bons",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Pdr0H9Bons",
+						"expanded_url": "https://twitter.com/senschumer/status/821550942382268416",
+						"display_url": "twitter.com/senschumer/sta…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18981766,
+				"id_str": "18981766",
+				"name": "OMG, LaJethro",
+				"screen_name": "LaJethroJenkins",
+				"location": "St. Elsewhere",
+				"description": "I doo-doo at least once a day. Twice when I'm sad. Met Jesus once, he owns a taco truck.",
+				"url": "https://t.co/OgumT6QxMC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OgumT6QxMC",
+								"expanded_url": "https://soundcloud.com/enkinsonezodcast",
+								"display_url": "soundcloud.com/enkinsonezodca…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19002,
+				"friends_count": 655,
+				"listed_count": 242,
+				"created_at": "Wed Jan 14 16:28:01 +0000 2009",
+				"favourites_count": 511,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 180662,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596149231225700352/7oIKu3mr.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596149231225700352/7oIKu3mr.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759179459693948929/tCgUf-8S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759179459693948929/tCgUf-8S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18981766/1437444282",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 821550942382268400,
+			"quoted_status_id_str": "821550942382268416",
+			"quoted_status": {
+				"created_at": "Wed Jan 18 02:53:02 +0000 2017",
+				"id": 821550942382268400,
+				"id_str": "821550942382268416",
+				"text": "Betsy DeVos fails @timkaine's test at Senate hearing: https://t.co/qnyFZgc52X",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "timkaine",
+							"name": "Senator Tim Kaine",
+							"id": 172858784,
+							"id_str": "172858784",
+							"indices": [
+								18,
+								27
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 821550157795917800,
+							"id_str": "821550157795917825",
+							"indices": [
+								54,
+								77
+							],
+							"media_url": "http://pbs.twimg.com/amplify_video_thumb/821550157795917825/img/8LkHcHiNLuKCufmB.jpg",
+							"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/821550157795917825/img/8LkHcHiNLuKCufmB.jpg",
+							"url": "https://t.co/qnyFZgc52X",
+							"display_url": "pic.twitter.com/qnyFZgc52X",
+							"expanded_url": "https://twitter.com/SenSchumer/status/821550942382268416/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 821550157795917800,
+							"id_str": "821550157795917825",
+							"indices": [
+								54,
+								77
+							],
+							"media_url": "http://pbs.twimg.com/amplify_video_thumb/821550157795917825/img/8LkHcHiNLuKCufmB.jpg",
+							"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/821550157795917825/img/8LkHcHiNLuKCufmB.jpg",
+							"url": "https://t.co/qnyFZgc52X",
+							"display_url": "pic.twitter.com/qnyFZgc52X",
+							"expanded_url": "https://twitter.com/SenSchumer/status/821550942382268416/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 195595,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/821550157795917825/vid/320x180/2p2PsU8dV9uzRzJi.mp4"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/821550157795917825/vid/1280x720/gFZjTMnxFvsC1y62.mp4"
+									},
+									{
+										"content_type": "application/dash+xml",
+										"url": "https://video.twimg.com/amplify_video/821550157795917825/pl/RXmIZIBPGtdalyOS.mpd"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/821550157795917825/vid/640x360/j27hxN-afi-5eQF_.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/821550157795917825/pl/RXmIZIBPGtdalyOS.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "DeVos cannot answer Sen. Kaine’s yes or no questions",
+								"description": "",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17494010,
+					"id_str": "17494010",
+					"name": "Chuck Schumer",
+					"screen_name": "SenSchumer",
+					"location": "New York, NY",
+					"description": "Official account of Senator Chuck Schumer - New York’s Senator RT≠endorsement",
+					"url": "http://t.co/actuzGi0EG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/actuzGi0EG",
+									"expanded_url": "http://schumer.senate.gov",
+									"display_url": "schumer.senate.gov",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 264761,
+					"friends_count": 26652,
+					"listed_count": 4836,
+					"created_at": "Wed Nov 19 20:10:20 +0000 2008",
+					"favourites_count": 145,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 9131,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "43090B",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194748071/Schumer-Twitter-Background.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194748071/Schumer-Twitter-Background.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/623955176131575808/zWzgRP4C_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/623955176131575808/zWzgRP4C_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1398716493",
+					"profile_link_color": "FF6005",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E7E9EF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 17805,
+				"favorite_count": 31566,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 46,
+			"favorite_count": 63,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 821550942382268400,
+		"quoted_status_id_str": "821550942382268416",
+		"retweet_count": 46,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 18 05:20:04 +0000 2017",
+		"id": 821587940920832000,
+		"id_str": "821587940920832000",
+		"text": "@ungdrill When you go out most nights in your 40s. 😂😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ungdrill",
+					"name": "Amie",
+					"id": 2455735963,
+					"id_str": "2455735963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 821583297209778200,
+		"in_reply_to_status_id_str": "821583297209778176",
+		"in_reply_to_user_id": 2455735963,
+		"in_reply_to_user_id_str": "2455735963",
+		"in_reply_to_screen_name": "ungdrill",
+		"user": {
+			"id": 699953,
+			"id_str": "699953",
+			"name": "🌌🤖",
+			"screen_name": "JustinBCooley",
+			"location": "San Luis Obispo, CA",
+			"description": "I care about space robots",
+			"url": "https://t.co/ZeyuFWreGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeyuFWreGR",
+							"expanded_url": "http://imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 155,
+			"friends_count": 662,
+			"listed_count": 12,
+			"created_at": "Thu Jan 25 11:04:51 +0000 2007",
+			"favourites_count": 17869,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762138820758212609/gJzgicXK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/699953/1463856555",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 18 00:01:19 +0000 2017",
 		"id": 821507727394381800,
 		"id_str": "821507727394381825",
